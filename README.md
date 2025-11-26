@@ -1,5 +1,3 @@
-Here you go — **full explanation + how to run it** in simple terms.
-
 ---
 
 ✅ **What This Script Does**
